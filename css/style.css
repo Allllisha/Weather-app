@@ -1,4 +1,6 @@
 /* TODO: Put your CSS code in here */
+@import "select2.css";
+
 h2{
   margin-top: 30px;
 };
